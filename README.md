@@ -12,7 +12,7 @@ A Windows batch file that tests the normal operation of upgrades and downgrades.
 이 백신을 수정 및 배포를 하시는 것은 좋으나. 출처를 꼭 밝혀 주시면 감사하겠습니다
 It is good to correct and distribute this vaccine. I would appreciate it if you could tell me where it came from.
 
-::::::::::::::::::::::::
+#____________________________
 
 VnT 뜻
 'Virus Not exisT'의 약자
@@ -22,7 +22,7 @@ Virus Not exist's abbreviation
 
 지금까지의 최신 테스트가 완료된 버전은 0.9.6 입니다
 The latest test so far has been completed is 0.9.6.
-::::::::::::::::::::::::
+#____________________________
 WEBSERVER BY 000WEBHOST
 http://vntvc.000webhostapp.com/
 
