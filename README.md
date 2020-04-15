@@ -3,7 +3,7 @@
 >	 This VnT Vaccine (referred to as the vaccine) cannot detect and iso late viruses
 
 >2. 이 백신은 웹서버를 이용하여 "NDB.txt" 파일을 내려받은 후 원본 "DB.txt" 파일과 비교한 후 
->	 This vaccine uses a web server to download the "NDB.txt" file and compare it with the >original "DB.txt" file.
+>	 This vaccine uses a web server to download the "NDB.txt" file and compare it with the original "DB.txt" file.
 
 >3. 판올림 및 판내림이 정상적으로 작동하는지 테스트 하는 윈도우즈 배치파일 입니다.
 >	 A Windows batch file that tests the normal operation of upgrades and downgrades.
