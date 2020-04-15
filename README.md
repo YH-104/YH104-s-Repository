@@ -43,18 +43,6 @@ Em@il: <yhrepo.github@gmail.com> (YHREPO)
 Em@il: <vntvchelp@gmail.com> (VNTVC)
 
 ## 버전 내역
-
-초기버전(Alpha)
-0.0.1
-└ 0.1.4
-
-테스트 버전(TESTMODE)
-0.9
-└ 0.9.1
- └ 0.9.5
- 
-안정화 빌드(TESTED)
- 0.9.6
- └ 0.9.6(dwl)
-  └ 0.9.7
+구글드라이브 링크
+<https://drive.google.com/open?id=1xh7aqxbZWIocFUcM6Rz4u17wAtAKSKss>
 ***
