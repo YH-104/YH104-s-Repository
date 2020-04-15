@@ -9,7 +9,7 @@
 >	 A Windows batch file that tests the normal operation of upgrades and downgrades.
 
 >4. 이 백신을 수정 및 배포를 하시는 것은 좋으나, 출처를 꼭 밝혀 주시면 감사하겠습니다.
->	 It is good to correct and distribute this vaccine. I would appreciate it if you could tell >me where it came from.
+>	 It is good to correct and distribute this vaccine. I would appreciate it if you could tell me where it came from.
 
 
 ## VnT 백신의 약자
