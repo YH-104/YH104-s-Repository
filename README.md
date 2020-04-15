@@ -12,13 +12,12 @@
 	 It is good to correct and distribute this vaccine. I would appreciate it if you could tell me where it came from.
 
 
-VnT 백신의 약자
+## VnT 백신의 약자
 'Virus Not exisT'의 약자
 
 VnT Vaccine Meaning
 
 'Virus Not exisT's abbreviation
-***
 
 **지금까지의 최신 테스트가 완료된 버전은 0.9.6 입니다**
 **The latest test so far has been completed is 0.9.6**
@@ -29,13 +28,13 @@ WEBSERVER BY 000WEBHOST
 에러내역은 나중에 차차 올리도록 하겠습니다.
 
 
-### 출처
+## 출처
 ___아래의 링크를 복사하여 출처를 남겨주세요___
 	[출처]
 	GitHub YHREPO:VNTVC
 	<https://github.com/YH-104/YH104-s-Repository>
 	<https://github.com/YHREPO/yhrepo>
-#### Contact
+### Contact
 
 Em@il: <yhrepo.github@gmail.com> (YHREPO)
 
