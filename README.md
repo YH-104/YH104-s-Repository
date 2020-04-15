@@ -1,4 +1,4 @@
-# Vnt Vaccine [VnT 백신]
+# VnT Vaccine [VnT 백신]
 >1. 이 VnT 백신(이하 백신)은 바이러스를 검출 및 격리 할 수 없습니다.
 >	 This VnT Vaccine (referred to as the vaccine) cannot detect and iso late viruses
 
@@ -36,8 +36,25 @@ ___아래의 링크를 복사하여 출처를 남겨주세요___
 >	<https://github.com/YH-104/YH104-s-Repository>
 >	<https://github.com/YHREPO/yhrepo>
 	
-### Contact
+## Contact
 
 Em@il: <yhrepo.github@gmail.com> (YHREPO)
 
 Em@il: <vntvchelp@gmail.com> (VNTVC)
+
+## 버전 내역
+
+초기버전(Alpha)
+0.0.1
+└ 0.1.4
+
+테스트 버전(TESTMODE)
+0.9
+└ 0.9.1
+ └ 0.9.5
+ 
+안정화 빌드(TESTED)
+ 0.9.6
+ └ 0.9.6(dwl)
+  └ 0.9.7
+***
