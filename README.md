@@ -26,8 +26,6 @@ VnT Vaccine Meaning
 WEBSERVER BY 000WEBHOST
 	<http://vntvc.000webhostapp.com/>
 
-에러내역은 나중에 차차 올리도록 하겠습니다.
-
 
 ## 출처
 ___아래의 링크를 복사하여 출처를 남겨주세요___
@@ -46,4 +44,17 @@ Em@il: <vntvchelp@gmail.com> (VNTVC)
 구글드라이브 링크
 
 <https://drive.google.com/open?id=1xh7aqxbZWIocFUcM6Rz4u17wAtAKSKss>
-***
+
+## 메인 화면 색 관련
+메인화면 색은 DB.txt 의 버전정보에 따라 변경됩니다.
+(색의 기준은 Win7 / 명령프롬프트 color 명령 참조)
+【바탕색】/【글꼴색】
+`  노란색 / 횐색    웹서버에서 새로운 NDB.txt가 발견되었으나, 사용자가 업데이트를 취소한 경우 
+` 연한 초록색/검정색  웹서버에서 새로운 NDB.txt가 발견되고, 사용자가 업데이트를 진행한 경우
+
+## Downloads [다운로드]
+
+링크 준비중입니다..
+
+## Error 내역
+VnT 백신을 실행하다 보면
