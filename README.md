@@ -59,6 +59,7 @@ Em@il: <vntvchelp@gmail.com> (VNTVC)
 
 ## Error 내역
 VnT 백신을 실행하다 보면 프로그램의 바탕색이 빨간색으로 변하면서
+
 0x00? 으로 Error가 생길때가 있습니다.
 
 Issue 탭으로 가면 다양한 에러 해결방법이 있습니다.
