@@ -22,6 +22,10 @@ VnT Vaccine Meaning
 **지금까지의 최신 테스트가 완료된 버전은 0.9.6 입니다**
 **The latest test so far has been completed is 0.9.6**
 
+### 주의!
+**위 백신은 절대 바이러스를 검출, 격리를 할 수 없습니다. 
+위 사항을 참고하여 실행하여 주십시오**
+
 ## WEBSERVER
 WEBSERVER BY 000WEBHOST
 	<http://vntvc.000webhostapp.com/>
