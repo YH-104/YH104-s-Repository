@@ -62,7 +62,7 @@ Em@il: <vntvchelp@gmail.com> (VNTVC)
 
 **1.GOOGLEDRIVE**
 
-<hhttps://bit.ly/2WYNTbo>
+<https://bit.ly/2WYNTbo>
 
 
 **2.MEDIAFIRE**
