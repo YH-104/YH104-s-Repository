@@ -60,11 +60,15 @@ Em@il: <vntvchelp@gmail.com> (VNTVC)
 
 ## Downloads [다운로드]
 
-1.GOOGLEDRIVE
-<https://drive.google.com/file/d/1lOMDfsGWIhNcEF-C78-S8EmcYqB_iNxS/view?usp=sharing>
+**1.GOOGLEDRIVE**
 
-2.MEDIAFIRE
-<http://www.mediafire.com/file/jct7c7czpe07j99/VnT_Vaccine.bat/file>
+<hhttps://bit.ly/2WYNTbo>
+
+
+**2.MEDIAFIRE**
+
+<https://bit.ly/2ZtDOof>
+
 
 3.링크 준비중입니다...
 
