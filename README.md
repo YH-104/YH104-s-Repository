@@ -60,7 +60,14 @@ Em@il: <vntvchelp@gmail.com> (VNTVC)
 
 ## Downloads [다운로드]
 
-링크 준비중입니다..
+1.GOOGLEDRIVE
+<https://drive.google.com/file/d/1lOMDfsGWIhNcEF-C78-S8EmcYqB_iNxS/view?usp=sharing>
+
+2.MEDIAFIRE
+<http://www.mediafire.com/file/jct7c7czpe07j99/VnT_Vaccine.bat/file>
+
+3.링크 준비중입니다...
+
 
 ## Error 내역
 VnT 백신을 실행하다 보면 프로그램의 바탕색이 빨간색으로 변하면서
@@ -69,7 +76,5 @@ VnT 백신을 실행하다 보면 프로그램의 바탕색이 빨간색으로 �
 
 **Issue 탭으로 가면 다양한 에러 해결방법이 있습니다.**
 
-다운로드 링크는 현재 안정적인 서버를 찾고 있으니
-잠시 기다려 주세요...
 
 - - -
