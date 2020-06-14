@@ -20,7 +20,9 @@ VnT Vaccine Meaning
 'Virus Not exisT's abbreviation
 
 **지금까지의 최신 테스트가 완료된 버전은 0.9.6 입니다**
+
 **The latest test so far has been completed is 0.9.6**
+
 
 ### 주의!
 **위 백신은 절대 바이러스를 검출, 격리를 할 수 없습니다. 
@@ -32,7 +34,7 @@ WEBSERVER BY 000WEBHOST
 
 
 ## 출처
-___아래의 링크를 복사하여 출처를 남겨주세요___
+___아래의 내용을 복사하여 출처를 남겨주세요___
 >	[출처]
 >	GitHub YHREPO:VNTVC
 >	<https://github.com/YH-104/YH104-s-Repository>
@@ -73,10 +75,10 @@ Em@il: <vntvchelp@gmail.com> (VNTVC)
 3.링크 준비중입니다...
 
 
-## Error 내역
+## Error 해결
 VnT 백신을 실행하다 보면 프로그램의 바탕색이 빨간색으로 변하면서
 
-0x00? 으로 Error가 생길때가 있습니다.
+0x00? 으로 Error가 발생할 때가 있습니다.
 
 **Issue 탭으로 가면 다양한 에러 해결방법이 있습니다.**
 
