@@ -68,12 +68,12 @@ Em@il: <vntvchelp@gmail.com> (VNTVC)
 
 **1.GOOGLEDRIVE**
 
-<https://bit.ly/2WYNTbo>
+~~<https://bit.ly/2WYNTbo>~~
 
 
 **2.MEDIAFIRE**
 
-<https://bit.ly/2ZtDOof>
+~~<https://bit.ly/2ZtDOof>~~
 
 
 3.링크 준비중입니다...
