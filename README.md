@@ -29,8 +29,9 @@ VnT Vaccine Meaning
 위 사항을 참고하여 실행하여 주십시오**
 
 ## WEBSERVER
-WEBSERVER BY 000WEBHOST
-	<http://vntvc.000webhostapp.com/>
+**현재 DB서버의 사용기간이 만료되어 현재 사용가능한 DB서버가 없습니다!
+빠른 시일내 다른 호스팅 서버를 찾을 예정이니, 잠시 기다려주세요!
+	~~http://vntvc.000webhostapp.com/~~
 
 
 ## 출처
