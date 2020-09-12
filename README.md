@@ -34,7 +34,7 @@ VnT Vaccine Meaning
 
 **빠른 시일내 다른 호스팅 서버를 찾을 예정이니, 잠시 기다려주세요!**
 
-	~~http://vntvc.000webhostapp.com/~~
+~~http://vntvc.000webhostapp.com/~~
 
 
 ## 출처
