@@ -81,7 +81,7 @@ Em@il: <vntvchelp@gmail.com> (VNTVC)
 
 ## BETA
 
-베타버전은 아직 지원하지 
+베타버전은 아직 지원하지 않습니다.
 
 
 ## Error 해결
