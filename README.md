@@ -9,7 +9,7 @@
 >	 A Windows batch file that tests the normal operation of upgrades and downgrades.
 
 >4. 이 백신을 수정 및 배포를 하시는 것은 좋으나, 출처를 꼭 밝혀 주시면 감사하겠습니다.
->	 It is good to correct and distribute this vaccine. I would appreciate it if you could tell me where it came from.
+>	 It is good to modify and distribute this vaccine, but I would appreciate it if you could clarify the source.
 
 
 ## VnT 백신의 약자
@@ -32,9 +32,9 @@ VnT Vaccine Meaning
 
 **현재 DB서버의 사용기간이 만료되어 현재 사용가능한 DB서버가 없습니다!**
 
-**빠른 시일내 다른 호스팅 서버를 찾을 예정이니, 잠시 기다려주세요!**
+**서버 이전이 거의 완료되었습니다, 현재 서버 테스트 중에 있습니다**
 
-~~http://vntvc.000webhostapp.com/~~
+_이전된 서버 : GITHUB 테스트중..._
 
 
 ## 출처
@@ -77,6 +77,11 @@ Em@il: <vntvchelp@gmail.com> (VNTVC)
 
 
 3.링크 준비중입니다...
+
+
+## BETA
+
+베타버전은 아직 지원하지 
 
 
 ## Error 해결
