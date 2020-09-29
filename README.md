@@ -21,9 +21,9 @@ VnT Vaccine Meaning
 
 'Virus Not exisT's abbreviation
 
-**지금까지의 최신 테스트가 완료된 버전은 0.9.7 입니다**
+**지금까지의 최신 테스트가 완료된 버전은 0.9.6 [Patched] 입니다**
 
-**The latest test so far has been completed is 0.9.7**
+**The latest test so far has been completed is 0.9.6 [Patched]**
 
 
 ### 주의!
@@ -61,7 +61,7 @@ Em@il: <vntvchelp@gmail.com> (VNTVC)
 ## 버전 내역
 구글드라이브 링크
 
-<https://drive.google.com/open?id=1xh7aqxbZWIocFUcM6Rz4u17wAtAKSKss>
+<https://drive.google.com/file/d/1FfOi9p41kRoBePgPHRaAxoiMR0q4EZSC/view?usp=sharing>
 
 ## 메인 화면 색 관련
 메인화면 색은 DB.txt 의 업데이트 정보에 따라 변경됩니다.
