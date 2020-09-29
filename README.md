@@ -1,4 +1,6 @@
 # VnT Vaccine [VnT 백신]
+
+## 주의 사항
 >1. 이 VnT 백신(이하 백신)은 바이러스를 검출 및 격리 할 수 없습니다.
 >	 This VnT Vaccine (referred to as the vaccine) cannot detect and iso late viruses
 
@@ -19,9 +21,9 @@ VnT Vaccine Meaning
 
 'Virus Not exisT's abbreviation
 
-**지금까지의 최신 테스트가 완료된 버전은 0.9.6 입니다**
+**지금까지의 최신 테스트가 완료된 버전은 0.9.7 입니다**
 
-**The latest test so far has been completed is 0.9.6**
+**The latest test so far has been completed is 0.9.7**
 
 
 ### 주의!
@@ -30,12 +32,18 @@ VnT Vaccine Meaning
 
 ## WEBSERVER
 
-**현재 DB서버의 사용기간이 만료되어 현재 사용가능한 DB서버가 없습니다!**
+**GitHub서버 사용중...**
 
-**서버 이전이 거의 완료되었습니다, 현재 서버 테스트 중에 있습니다**
+파일 목록
 
-_이전된 서버 : GITHUB 테스트중..._
+<https://raw.githubusercontent.com/YH-104/YH104-s-Repository/master/ndb.txt>
+[ndb.txt]
 
+<https://raw.githubusercontent.com/YH-104/YH104-s-Repository/master/upt.txt>
+[upt.txt]
+
+<https://raw.githubusercontent.com/YH-104/YH104-s-Repository/master/tele.txt>
+[tele.txt]
 
 ## 출처
 ___아래의 내용을 복사하여 출처를 남겨주세요___
