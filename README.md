@@ -71,18 +71,10 @@ Em@il: <vntvchelp@gmail.com> (VNTVC)
 ` 연한 초록색/검정색 | 웹서버에서 새로운 NDB.txt가 발견되고, 사용자가 업데이트를 진행한 경우 `
 
 ## Downloads [다운로드]
-
-**1.GOOGLEDRIVE**
-
-~~<https://bit.ly/2WYNTbo>~~
+Releases 탭에서 다운로드 가능합니다.
 
 
-**2.MEDIAFIRE**
-
-~~<https://bit.ly/2ZtDOof>~~
-
-
-3.링크 준비중입니다...
+이전 버전은 아래에서 다운로드 할 수 있습니다.
 
 
 ## BETA
@@ -97,5 +89,14 @@ VnT 백신을 실행하다 보면 프로그램의 바탕색이 빨간색으로 �
 
 **Issue 탭으로 가면 다양한 에러 해결방법이 있습니다.**
 
+## 이전 버전 다운로드
+
+VnT Vaccine DB서버 패치 이전 버전입니다. [지원 중단] / [DB 업데이트 불가능]
+
+**아래 다운로드 링크**
+
+Google Drive 폴더
+
+<https://drive.google.com/drive/folders/17ZWAesK84UVBLNH4vpHlrpJTmJ6rh31P?usp=sharing>
 
 - - -
