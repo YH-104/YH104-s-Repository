@@ -34,20 +34,20 @@ VnT Vaccine Meaning
 
 파일 목록
 
-<https://raw.githubusercontent.com/YH-104/YH104-s-Repository/master/ndb.txt>
+<https://raw.githubusercontent.com/vntvc/VnTVaccine/master/ndb.txt>
 [ndb.txt]
 
-<https://raw.githubusercontent.com/YH-104/YH104-s-Repository/master/upt.txt>
+<https://raw.githubusercontent.com/vntvc/VnTVaccine/master/upt.txt>
 [upt.txt]
 
-<https://raw.githubusercontent.com/YH-104/YH104-s-Repository/master/tele.txt>
+<https://raw.githubusercontent.com/vntvc/VnTVaccine/master/tele.txt>
 [tele.txt]
 
 ## 출처
 ___아래의 내용을 복사하여 출처를 남겨주세요___
 >	[출처]
 >	GitHub YHREPO:VNTVC
->	<https://github.com/YH-104/YH104-s-Repository>
+>	<https://github.com/vntvc/VnTVaccine>
 >	<https://github.com/YHREPO/yhrepo>
 	
 ## Contact
