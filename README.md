@@ -80,8 +80,10 @@ Releases 탭에서 다운로드 가능합니다.
 
 ## BETA
 
-베타버전은 아직 지원하지 않습니다.
 
+releases 탭에 Pre-Release 버전을 다운로드 받아주세요.
+
+[Private-BETA / 0.9.7]
 
 ## Error 해결
 VnT 백신을 실행하다 보면 프로그램의 바탕색이 빨간색으로 변하면서
