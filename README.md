@@ -59,7 +59,7 @@ Em@il: <vntvchelp@gmail.com> (VNTVC)
 ## 버전 내역
 Google Drive 링크
 
-[Google Drive Link](<https://drive.google.com/file/d/1xD94WfD0LJMuYjDQkbxiQqD4Zf8dySv2/view?usp=sharing>)
+[[Google Drive Link]](<https://drive.google.com/file/d/1xD94WfD0LJMuYjDQkbxiQqD4Zf8dySv2/view?usp=sharing>)
 
 
 ## 메인 화면 색 관련
@@ -98,11 +98,11 @@ VnT Vaccine DB서버 패치 이전 버전입니다. [지원 중단] / [DB 업데
 
 **아래 다운로드 링크**
 
-1.[Google Drive 폴더](<https://drive.google.com/drive/folders/17ZWAesK84UVBLNH4vpHlrpJTmJ6rh31P?usp=sharing>)
+1.[[Google Drive 폴더]](<https://drive.google.com/drive/folders/17ZWAesK84UVBLNH4vpHlrpJTmJ6rh31P?usp=sharing>)
 
 
 
-2.[MEGA Drive 폴더](<https://mega.nz/folder/EqR2FL5K#gunAISjJH_wi0Ojl7ITlaA>)
+2.[[MEGA Drive 폴더]](<https://mega.nz/folder/EqR2FL5K#gunAISjJH_wi0Ojl7ITlaA>)
 
 
 
