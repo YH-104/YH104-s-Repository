@@ -74,6 +74,7 @@ Google Drive 링크
 ## Downloads [다운로드]
 Releases 탭에서 다운로드 가능합니다.
 
+[[바로가기]](<https://github.com/vntvc/VnTVaccine/releases/latest>)
 
 이전 버전은 아래에서 다운로드 할 수 있습니다.
 
