@@ -31,12 +31,8 @@
 파일 목록
 
 [[ndb.txt]](<https://raw.githubusercontent.com/vntvc/VnTVaccine/master/ndb.txt>)
-
-
-[[upt.txt]](<https://raw.githubusercontent.com/vntvc/VnTVaccine/master/upt.txt>)
-
-
-[[tele.txt]](<https://raw.githubusercontent.com/vntvc/VnTVaccine/master/tele.txt>)
+/[[upt.txt]](<https://raw.githubusercontent.com/vntvc/VnTVaccine/master/upt.txt>)
+/[[tele.txt]](<https://raw.githubusercontent.com/vntvc/VnTVaccine/master/tele.txt>)
 
 
 ## 출처
