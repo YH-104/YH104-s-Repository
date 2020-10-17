@@ -15,17 +15,13 @@
 
 
 ## VnT 백신의 약자
+
 'Virus Not exisT'의 약자
 
-VnT Vaccine Meaning
 
-'Virus Not exisT's abbreviation
+**지금까지의 최신 테스트가 완료된 버전은 0.9.6 [Patched] V.4 입니다**
 
-
-
-**지금까지의 최신 테스트가 완료된 버전은 0.9.6 [Patched] 입니다**
-
-**The latest test so far has been completed is 0.9.6 [Patched]**
+**The latest test so far has been completed is 0.9.6 [Patched] V.4 **
 
 
 ## WEBSERVER
@@ -34,14 +30,14 @@ VnT Vaccine Meaning
 
 파일 목록
 
-<https://raw.githubusercontent.com/vntvc/VnTVaccine/master/ndb.txt>
-[ndb.txt]
+[[ndb.txt]](<https://raw.githubusercontent.com/vntvc/VnTVaccine/master/ndb.txt>)
 
-<https://raw.githubusercontent.com/vntvc/VnTVaccine/master/upt.txt>
-[upt.txt]
 
-<https://raw.githubusercontent.com/vntvc/VnTVaccine/master/tele.txt>
-[tele.txt]
+[[upt.txt]](<https://raw.githubusercontent.com/vntvc/VnTVaccine/master/upt.txt>)
+
+
+[[tele.txt]](<https://raw.githubusercontent.com/vntvc/VnTVaccine/master/tele.txt>)
+
 
 ## 출처
 ___아래의 내용을 복사하여 출처를 남겨주세요___
@@ -76,7 +72,7 @@ Google Drive 링크
 ## Downloads [다운로드]
 Releases 탭에서 다운로드 가능합니다.
 
-[[바로가기]](<https://github.com/vntvc/VnTVaccine/releases/latest>)
+[[최신버전 내려받기]](<https://github.com/vntvc/VnTVaccine/releases/latest>)
 
 이전 버전은 아래에서 다운로드 할 수 있습니다.
 
@@ -85,6 +81,9 @@ Releases 탭에서 다운로드 가능합니다.
 
 
 releases 탭에 Pre-Release 버전을 다운로드 받아주세요.
+
+[[BETA EULA]](<http://eula.vntvc.kro.kr/>)
+
 
 [Private-BETA / 0.9.7]
 
