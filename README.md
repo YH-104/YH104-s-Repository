@@ -21,7 +21,7 @@
 
 **지금까지의 최신 테스트가 완료된 버전은 0.9.6 [Patched] V.4 입니다**
 
-**The latest test so far has been completed is 0.9.6 [Patched] V.4 **
+**The latest test so far has been completed is 0.9.6 [Patched] V.4**
 
 
 ## WEBSERVER
