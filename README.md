@@ -2,16 +2,24 @@
 
 ## 주의 사항
 >1. 이 VnT 백신(이하 백신)은 바이러스를 검출 및 격리 할 수 없습니다.
->	 This VnT Vaccine (referred to as the vaccine) cannot detect and iso late viruses
+
 
 >2. 이 백신은 웹서버를 이용하여 "NDB.txt" 파일을 내려받은 후 원본 "DB.txt" 파일과 비교한 후 
->	 This vaccine uses a web server to download the "NDB.txt" file and compare it with the original "DB.txt" file.
+
 
 >3. 판올림 및 판내림이 정상적으로 작동하는지 테스트 하는 윈도우즈 배치파일 입니다.
->	 A Windows batch file that tests the normal operation of upgrades and downgrades.
+
 
 >4. 이 백신을 수정 및 배포를 하시는 것은 좋으나, 출처를 꼭 밝혀 주시면 감사하겠습니다.
->	 It is good to modify and distribute this vaccine, but I would appreciate it if you could clarify the source.
+
+
+이 VnT Vaccine(이하 백신)은/는 바이러스를 검출 및 격리할 수 없습니다.
+
+이 백신은 웹서버를 이용하여 "NDB.txt"파일을 내려받은 후 원본 "DB.txt" 파일과 비교한 후
+
+DB.txt < NDB.txt 이라면 업데이트, DB.txt > NDB.txt 이라면 다운그레이드를 진행합니다. 
+
+이 백신은 [여기서](<https://github.com/vntvc/VnTVaccine/blob/master/LICENSE>)에서 확인하실 수 있습니다.
 
 
 ## VnT 백신의 약자
@@ -21,7 +29,6 @@
 
 **지금까지의 최신 테스트가 완료된 버전은 0.9.6 [Patched] V.4 입니다**
 
-**The latest test so far has been completed is 0.9.6 [Patched] V.4**
 
 
 ## WEBSERVER
@@ -103,6 +110,16 @@ VnT Vaccine DB서버 패치 이전 버전입니다. [지원 중단] / [DB 업데
 
 2.[[MEGA Drive 폴더]](<https://mega.nz/folder/EqR2FL5K#gunAISjJH_wi0Ojl7ITlaA>)
 
+
+#Eng
+
+This VnT Vacine cannot detect and isolate viruses.
+
+This vaccine downloads the "NDB.txt" file using a web server and compares it to the original "DB.txt" file.
+
+DB.txt < NDB.txt UPGRADE / NDB.txt > NDB.txt DOWNGRADE
+
+You can check the license of this vaccine [here](<https://github.com/vntvc/VnTVaccine/blob/master/LICENSE>).
 
 
 - - -
