@@ -16,7 +16,7 @@
 'Virus Not exisT'의 약자
 
 
-**지금까지의 최신 테스트가 완료된 버전은 0.9.6 [Patched] V.4 입니다**
+**지금까지의 최신 테스트가 완료된 버전은 0.9.7 입니다**
 
 
 
@@ -109,12 +109,12 @@ VnT Vaccine DB서버 패치 이전 버전입니다. [지원 중단] / [DB 업데
 
 You can check the license of this vaccine **[here](<https://github.com/vntvc/VnTVaccine/blob/master/LICENSE>)**.
 
-## abbreviation for VnT Vacine
+## Abbreviation for VnT Vacine
 
 'Virus Not exisT'
 
 
-**The latest test so far has been completed 0.9.7. **
+**The latest test so far has been completed 0.9.7.**
 
 
 
@@ -161,6 +161,7 @@ The main screen color changes depending on the update information in DB.txt .
  Gray / Black | `Main screen color that appears when auto DB update is turned off `
 
 ## Downloads 
+
 Downloadable from the release tab
 
 [[Latest Version Download]](<https://github.com/vntvc/VnTVaccine/releases/latest>)
@@ -170,7 +171,6 @@ The previous version can be downloaded below.
 
 ## BETA
 
-
 Download the Pre-Release version to the releases tab.
 
 [[BETA EULA]](<http://eula.vntvc.kro.kr/>)
@@ -179,6 +179,7 @@ Download the Pre-Release version to the releases tab.
 [Private-BETA / 0.9.8]
 
 ## Error 
+
 When you run a VnT vaccine, the background color of the program turns red.
 
 There are times when an error occurs with 0x00?.
