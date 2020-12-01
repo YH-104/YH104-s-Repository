@@ -107,7 +107,7 @@ VnT Vaccine DB서버 패치 이전 버전입니다. [지원 중단] / [DB 업데
 - This vaccine downloads the "NDB.txt" file using a web server and compares it to the original "DB.txt" file.
 	***DB.txt < NDB.txt UPGRADE / NDB.txt > NDB.txt DOWNGRADE***
 
-You can check the license of this vaccine **[here](<https://github.com/vntvc/VnTVaccine/blob/master/LICENSE>)**.
+- You can check the license of this vaccine **[here](<https://github.com/vntvc/VnTVaccine/blob/master/LICENSE>)**.
 
 ## Abbreviation for VnT Vacine
 
