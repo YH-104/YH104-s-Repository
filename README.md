@@ -109,7 +109,7 @@ VnT Vaccine DB서버 패치 이전 버전입니다. [지원 중단] / [DB 업데
 
 - You can check the license of this vaccine **[here](<https://github.com/vntvc/VnTVaccine/blob/master/LICENSE>)**.
 
-## Abbreviation for VnT Vacine
+## Abbreviation
 
 'Virus Not exisT'
 
@@ -154,9 +154,9 @@ The main screen color changes depending on the update information in DB.txt .
 
 (See Win7 / Commandprompt color command for `color` criteria)
 #### 【Background Color】/【Fonts Color】
-  Yellow / White   | `A new NDB.txt was found on the web server, but you canceled the update. `
+  Yellow / White   | `A new NDB.txt was found on the web server, but the user canceled the update. `
 
- Light Green / Black | `A new NDB.txt is found on the web server, and the user proceeds with the update. `
+ Light Green / Black | `A new NDB.txt was found on the web server, and the user proceeded with the update. `
 
  Gray / Black | `Main screen color that appears when auto DB update is turned off `
 
